@@ -1,0 +1,28 @@
+name: piggylicious
+favicon: null
+layout_spectrum: 0.913011027732864
+typography_spectrum: 0.536753814201802
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.16240253834985197
+  lightness: 0.6719310046173632
+  saturation: 0.05362134496681392
+  rhythmicContrast: 0.9743736926466227
+purpose: []
